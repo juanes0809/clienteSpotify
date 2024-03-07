@@ -1,5 +1,5 @@
 .banner{
-    background-image: url("../img/donomar1.jpg");
+    background-image: url("../img/hectorYTito.jpg");
     padding: 25%;
     background-position: top center;
     background-size: cover;
@@ -20,4 +20,17 @@
 }
 .fondoboton{
     background-color: goldenrod;
+}
+img{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+audio{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10;
 }
